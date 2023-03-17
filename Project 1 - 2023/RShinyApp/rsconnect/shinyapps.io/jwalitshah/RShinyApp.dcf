@@ -1,0 +1,13 @@
+name: RShinyApp
+title: RShinyApp
+username:
+account: jwalitshah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8557735
+bundleId: 6953986
+url: https://jwalitshah.shinyapps.io/RShinyApp/
+when: 1678746510.44026
+lastSyncTime: 1678746510.44027
+asMultiple: FALSE
+asStatic: FALSE
